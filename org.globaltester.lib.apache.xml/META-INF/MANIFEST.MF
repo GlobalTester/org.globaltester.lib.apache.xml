@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Xmlgraphics
+Bundle-SymbolicName: org.globaltester.lib.apache.xml
+Bundle-Version: 1.0.0
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ClassPath: lib/xml-apis.jar,
+ lib/xalan.jar,
+ lib/xercesImpl.jar,
+ lib/xsltc.jar,
+ .,
+ lib/pdf-transcoder.jar
+Export-Package: org.apache.avalon.framework,
+ org.apache.avalon.framework.configuration,
+ org.apache.commons.io,
+ org.apache.commons.io.output,
+ org.apache.commons.logging
