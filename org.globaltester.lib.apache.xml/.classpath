@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="lib/xmldsig.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/pdf-transcoder.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/xalan.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/xercesImpl.jar"/>
@@ -7,4 +8,5 @@
 	<classpathentry exported="true" kind="lib" path="lib/xml-apis.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="output" path="bin"/>
 </classpath>
