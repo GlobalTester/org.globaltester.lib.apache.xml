@@ -14,4 +14,4 @@ Export-Package: org.apache.avalon.framework,
  org.apache.commons.io,
  org.apache.commons.io.output,
  org.apache.commons.logging
-Bundle-Vendor: HJP Consulting GmbH
+Bundle-Vendor: secunet Security Networks AG
